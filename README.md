@@ -2,8 +2,6 @@
 
 This repository contains a simple Python script that helps you find the real URL of shortened links. It is particularly useful when you encounter shortened URLs and want to know the actual destination before clicking on them. This script utilizes the `requests` library to make HTTP requests and follows redirects to determine the real URL.
 
-4. **Enter the shortened URL when prompted.**
-
 ## Requirements
 
 - Python 3.x
