@@ -18,6 +18,6 @@ Suppose you have the following shortened URLs:
 
 Running the script with any of these URLs will display the corresponding real URL.
 
-##Help
+## Help
 
 For any issues, feel free to open an issue or submit a pull request on GitHub, or dm me t.me/rei07x
